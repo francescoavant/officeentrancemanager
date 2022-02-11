@@ -1,7 +1,7 @@
 # officeentrancemanager
 Office's entrance manager
+This is a project for "Software Oriented Architecture" exam at Università degli Studi di Milano.
+Implementation of REST API for an office entrance management Web Application.
 
-Implementazione di API REST per una Web Application di gestione degli ingressi in ufficio.
-
-See project's documentation and functionality's explaination here: 
-[paper](https://github.com/francescoavant/officeentrancemanager/blob/main/Relazione_progetto_SOA.pdf)
+See project's documentation and functionality explainations in italian language here: 
+[document](https://github.com/francescoavant/officeentrancemanager/blob/main/Relazione_progetto_SOA.pdf)

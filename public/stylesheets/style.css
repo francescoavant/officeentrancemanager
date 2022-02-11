@@ -1,0 +1,21 @@
+
+html {
+    scroll-behavior: smooth;        /*effetto smooth per lo scrolling del sito*/
+  }
+
+footer {
+  position:relative;
+  bottom: 0;
+  width: 100%;
+  height: 10.5rem;            /* height per footer  */
+}
+body {
+  padding-bottom: 50px;
+}
+
+.news-list{
+  width: 96%;           /*centro la lista delle notizie*/
+}
+
+
+

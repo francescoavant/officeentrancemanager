@@ -45,8 +45,6 @@ app.get('/auth/google/failure', (req, res) => {
 app.listen(5000, () => console.log('in ascolto su porta 5000'));
 
 
-//togliere reindirizzamenti che non servono e fare cose carine 
-
 
 
 //invio di email di assistenza da parte dell'utente, compilando il form
